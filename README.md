@@ -8,7 +8,7 @@ Our group consisted of four people (in alphabetic order):
 
 - [Anjad Qusaibaty](https://github.com/Anjad-Qusaibaty).
 - [Gaurangi Mane](https://github.com/GaurangiM).
-- [Martijn van Veen](https://github.com/Martijncvv).
+- [Martijn van V](https://github.com/Martijncvv).
 - [Rakan Douli](https://github.com/Rairakzak).
 
 The group decided to build an arcade with two mini games where the main protagonists are our teachers [Karla Evelize](https://www.linkedin.com/in/karla-evelize/) and [Matias Garcia](https://www.linkedin.com/in/matias-garcia-79b6aa108/).
